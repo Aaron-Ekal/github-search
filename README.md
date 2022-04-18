@@ -8,7 +8,7 @@
 
 Github Search helps users look for Github users and repositories in 2 simple steps. Choose user for users and repo for repositories. See screenshots below:
 
-![Landing page screenshot](img/screenshot1.png "Github Search")
+![Landing page screenshot](./src/assets/img/screenshot1.png "Github Search")
 
 ## Setup/Installation Requirements
 
